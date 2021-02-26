@@ -1,0 +1,11 @@
+<!Doctype html>
+<html>
+<head>
+<title>page name </title>
+</head>
+<body>
+<h1>manpreet</h1>
+<p>hello</p>
+<a href="https://www.w3schools.com">This is a link</a>
+</body>
+</html>
